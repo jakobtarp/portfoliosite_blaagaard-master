@@ -1,13 +1,13 @@
 .logo {
-  max-width: 25vh;
+  /* max-width: 95%; */
   padding: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 80%;
 }
 
-h1 {
+h2 {
   text-align: center;
   font-family: motiva-sans, sans-serif;
   font-weight: 900;
