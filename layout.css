@@ -23,8 +23,9 @@ iframe {
 
 footer {
   text-align: center;
+  font-size: 10px;
   font-family: motiva-sans, sans-serif;
   font-weight: 900;
-  text-transform: uppercase;
   font-style: normal;
+  color: var(--sec-color);
 }
