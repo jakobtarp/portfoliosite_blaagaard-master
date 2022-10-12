@@ -1,0 +1,25 @@
+.logo {
+  max-width: 25vh;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  font-family: motiva-sans, sans-serif;
+
+  font-weight: 900;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+footer {
+  text-align: center;
+  font-family: motiva-sans, sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-style: normal;
+}
